@@ -2,7 +2,9 @@
 
 Next.js application for managing a customer table with dark theme and pagination support.
 
-![App Screenshot](/public/screenshot.png) ## 📌 Features
+![App Screenshot](/public/screenshot.png) 
+
+## 📌 Features
 
 - Next.js 13+ (TypeScript)
 - Tailwind CSS with dark theme
