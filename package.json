@@ -1,4 +1,7 @@
 {
+  "engines": {
+    "node": "22.x"
+  },
   "name": "nextjs-tailwindcss-typescript-starter",
   "version": "0.1.0",
   "private": true,
